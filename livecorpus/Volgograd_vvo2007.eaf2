@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="Interviewer"
+    DATE="2025-11-13T13:47:24+03:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/a1/Desktop/Volgograd_vvo2007.MOV"
+            MIME_TYPE="video/quicktime" RELATIVE_MEDIA_URL="../Volgograd_vvo2007.MOV"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c74c7c2e-8b53-4f7f-99d8-5c907f3e85f3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">22</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="869633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="877400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="877433"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="883119"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="883119"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="887300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="887300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="895836"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="895867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="902520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="902567"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="909867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="909867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="913267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="913267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="923000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="923000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="927500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="927500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="934100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="934100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="941167"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="941167"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="945892"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="945933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="950633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="950633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="954233"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="955769"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="956400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="956433"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="959533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="959533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="962333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="962359"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="962900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="963177"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="963200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="964318"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="965356"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="speaker@vvo2007">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Это такой хороший вопрос.Не знаю,я очень сильно чувствую разницу </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Потому что я в целом я в целом не люблю Москву.Просто я переехала сюда,именно поступив в ВШЭ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>И я очень борюсь с собой.Несмотря на то,что прошел только месяц спустя, как бы сказать ,переезда</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Вот,но...Вот у меня даже вот преподаватели мои,которые... были со мной  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Которые были со мной,которые были в качестве моих наставников,репетиторов,школьные преподаватели</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Они все мне при переезде,когда узнали,что я поступила в Москву,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Мне каждый своими словами сказал:"Ванесса,будь более аккуратна,потому что в Москве люди не такие добрые ,как в Волгограде</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>*Смех*Не,у я не знаю,я более или менее согласна будто бы с этим</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Потому что я редко встречаю просто какие-то...Ну спонтанные улыбки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Вот даже,например,потому что я не могу с...Ну для меня Волгоград...Это...Можно вот сказать,типа большая деревня </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Вот,потому что ты можешь  встретить любого знакомого знакомого знакомых</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>И ты по-любому как-то будешь через кого-то или что-то знать об этом человеке  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>В Москве,мне кажется,не так это устроено.Достаточно редко встретить...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Да ,вот, у меня тоже такой же...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>*Пауза*Хотела сказать point of view на английском</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Да,это же тоже мнение,почему бы и нет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="interviewer@epp2007">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>  А есть вообще различия,вот ты чувствуешь разницу в жизни в Москве или жизни в Волгограде?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Ну вообще как будто бы невозможно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>Угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Почему бы и нет?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="О.Н.Ляшеская" TIER_ID="Преподаватель"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
